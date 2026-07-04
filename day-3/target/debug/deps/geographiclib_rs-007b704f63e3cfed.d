@@ -1,0 +1,10 @@
+/Users/matt/coding/advent-of-code-2019-rust/day-3/target/debug/deps/geographiclib_rs-007b704f63e3cfed.d: /Users/matt/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/geographiclib-rs-0.2.7/src/lib.rs /Users/matt/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/geographiclib-rs-0.2.7/src/geodesic.rs /Users/matt/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/geographiclib-rs-0.2.7/src/geodesic_capability.rs /Users/matt/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/geographiclib-rs-0.2.7/src/geodesic_line.rs /Users/matt/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/geographiclib-rs-0.2.7/src/geomath.rs /Users/matt/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/geographiclib-rs-0.2.7/src/polygon_area.rs
+
+/Users/matt/coding/advent-of-code-2019-rust/day-3/target/debug/deps/libgeographiclib_rs-007b704f63e3cfed.rmeta: /Users/matt/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/geographiclib-rs-0.2.7/src/lib.rs /Users/matt/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/geographiclib-rs-0.2.7/src/geodesic.rs /Users/matt/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/geographiclib-rs-0.2.7/src/geodesic_capability.rs /Users/matt/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/geographiclib-rs-0.2.7/src/geodesic_line.rs /Users/matt/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/geographiclib-rs-0.2.7/src/geomath.rs /Users/matt/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/geographiclib-rs-0.2.7/src/polygon_area.rs
+
+/Users/matt/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/geographiclib-rs-0.2.7/src/lib.rs:
+/Users/matt/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/geographiclib-rs-0.2.7/src/geodesic.rs:
+/Users/matt/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/geographiclib-rs-0.2.7/src/geodesic_capability.rs:
+/Users/matt/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/geographiclib-rs-0.2.7/src/geodesic_line.rs:
+/Users/matt/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/geographiclib-rs-0.2.7/src/geomath.rs:
+/Users/matt/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/geographiclib-rs-0.2.7/src/polygon_area.rs:
